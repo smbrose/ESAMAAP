@@ -12,6 +12,17 @@ Currently there are two collaborative environments:
 
 ## Data Access
 
+```flow
+st=>start: Start
+op=>operation: BIOMASS / EarthCARE User
+cond=>condition: Yes or No?
+e=>end
+
+st->op->cond
+cond(yes)->e
+cond(no)->op
+```
+
 
 ## Setting up your account 
 
