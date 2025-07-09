@@ -10,7 +10,7 @@ Currently there are two collaborative environments:
 
 ## An Overview of the MAAP 
 
-## Data Access - A decision tree
+## Data Access
 
 
 ## Setting up your account 
