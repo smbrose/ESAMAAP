@@ -12,17 +12,13 @@ Currently there are two collaborative environments:
 
 ## Data Access
 
-```flow
-st=>start: Start
-op=>operation: BIOMASS / EarthCARE User
-cond=>condition: Yes or No?
-e=>end
+- **🌲 Biomass or ☁️ EarthCARE user?**
+  → Access data via the collaborative environments 
 
-st->op->cond
-cond(yes)->e
-cond(no)->op
-```
-
+- **👤 Generic user?**
+  → You can:
+  - 🔄 **Stream or download data via API**
+  - 📥 **Download files using [ESA’s Data Explorer](https://explorer.eo.esa.int/)**
 
 ## Setting up your account 
 
