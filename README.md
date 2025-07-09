@@ -13,12 +13,16 @@ Currently there are two collaborative environments:
 ## Data Access
 
 - **🌲 Biomass or ☁️ EarthCARE user?**
-  → Access data via the collaborative environments 
+  → You can:
+  - Access and work with data in the cloud → via the collaborative environments 
+  - Stream or download data via API
+  - Download files using [ESA’s Data Explorer](https://explorer.eo.esa.int/)
+  
 
 - **👤 Generic user?**
   → You can:
-  - 🔄 **Stream or download data via API**
-  - 📥 **Download files using [ESA’s Data Explorer](https://explorer.eo.esa.int/)**
+  - Stream or download data via API
+  - Download files using [ESA’s Data Explorer](https://explorer.eo.esa.int/)
 
 ## Setting up your account 
 
